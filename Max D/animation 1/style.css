@@ -1,0 +1,24 @@
+.blue{
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  background-image: url(hippnogif1.gif);
+  animation: Scroll-Left 10s linear infinite;
+}
+.orange{
+  width:100%;
+  height: 100px;
+background-color: white;background-image: url(hippnogif1.gif);
+animation: Scroll-Right 2s linear infinite;
+
+}
+
+@keyframes Scroll-Left {
+  from {background-position: 0 0;}
+  to{background-position: -300px 0;}
+}
+
+@keyframes Scroll-Right {
+  from {background-position: 0 0;}
+  to{background-position: 300px 0;}
+}

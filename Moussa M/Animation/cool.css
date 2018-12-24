@@ -1,0 +1,36 @@
+div{
+  width:100%;
+  height:100px;
+  background-color: red;
+  background-image: url(download.png);
+  animation: backgroundScroll-left 20s linear infinite;
+}
+@keyframes backgroundScroll-left {
+  from{background-position:0 0;}
+  to{background-position:-500px 0}
+
+}
+.blue{
+  width:100%;
+  height:100px;
+  background-color: blue;
+  background-image: url(download.jpeg);
+  animation: backgroundScroll-right 20s linear infinite;
+}
+@keyframes backgroundScroll-right{
+  from{background-position:0 0;}
+  to{background-position:500px 0}
+}
+.orange{
+  width:100%;
+  height:100px;
+  background-color: blue;
+  background-image: url(download.jpeg);
+  animation: backgroundScroll-right 20s linear infinite;
+}
+.cvcv{
+  width:100%;
+  height:100px;
+  background-color: blue;
+  background-image: url(download.jpeg);
+  animation: backgroundScroll-right 20s linear infinite;

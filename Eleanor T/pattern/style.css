@@ -1,0 +1,27 @@
+.red{
+  width:100%;
+  height:100px;
+  background-color: #230411;
+  background-image: url(http://www.planetacurioso.com/wp-content/uploads/2008/10/ilusion-optica-movimientos.gif);
+  animation: right 10s linear infinite;
+}
+.gray{
+  width:100%;
+  height:100px;
+  background-color:#C0C0C0;
+  background-image: url(https://i.imgur.com/jgmHI70.gif);
+  animation: left 10s linear infinite;
+}
+
+@keyframes left  {
+  from{background-position: 0 0;}
+  to{background-position:-200px 0;}
+
+}
+
+
+@keyframes right  {
+  from{background-position: 0 0;}
+  to{background-position:200px 0;}
+
+}

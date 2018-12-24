@@ -1,0 +1,33 @@
+body,html{
+  height: 100vh !important;
+}
+#instructions{
+  outline: 5px solid black;
+  font-size: 25px;
+}
+#gamestartbutton{
+  position: fixed;
+  height: 75vh !important;
+  width: 100vw !important;
+  font-size: 150px !important;
+}
+#button2{
+  position: fixed;
+  top: 50%;
+left: 43%;
+}
+#robberbutton
+{
+  font-size: 40px !important;
+}
+#heading2{
+  text-align: center;
+  text-decoration: underline;
+}
+button{width:190px;
+  height:125px;
+background-color:black;
+color:red;
+font-size: 50px;
+outline: 15px solid black;
+}

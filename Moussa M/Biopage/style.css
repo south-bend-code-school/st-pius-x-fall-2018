@@ -1,0 +1,62 @@
+body{
+  background-color:orange;
+color: blue;}
+#Youtube{
+  font: 30px arial, sans-serif;
+  color: white;
+text-align: center;
+font-style: italic;
+position:absolute;
+top: 60px;
+left: 550px;
+
+}
+#YT{
+  width: 200px;
+  position:absolute;
+  left: 550px;
+  top: 10px;
+}
+#meme{
+position:absolute;
+left: 100px;
+top: 300px;
+}
+#MOW{
+  font: 20px arial, sans-serif;
+  position:absolute;
+  left: 150px;
+  top: 250px;
+}
+#Ro{
+ height:270px;
+ position: absolute;
+ left:800px;
+ top: 300px;
+}
+#Vid{
+  font: 20px arial, sans-serif;
+  position: absolute;
+  left:880px;
+  top:250px;
+}
+#Mm{
+  position: absolute;
+  left:350px;
+  top:700px;
+}
+#button{
+  position:absolute;
+  left:450px;
+  top:120px;
+}
+#b2{
+  position:absolute;
+  left:560px;
+  top:120px;
+}
+#no{
+  position:absolute;
+  left:700px;
+  top:120px;
+}

@@ -1,0 +1,23 @@
+.pink{
+  width:100%;
+  height:100px;
+  background-color:pink;
+  background-image: url("giphy.gif");
+  animation: scroll-right 10s linear infinite;
+}
+.gray{
+  width:100%;
+height:100px;
+background-color:gray;
+background-image: url("othergiphy.gif");
+animation: scroll-left 10s linear infinite;
+}
+
+@keyframes scroll-left{
+  from {background-position: 0 0;}
+  to {background-position: -200px 0;}
+}
+@keyframes scroll-right{
+  from {background-position: 0 0;}
+  to {background-position: 200px 0;}
+}

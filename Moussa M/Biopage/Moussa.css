@@ -1,0 +1,52 @@
+body{
+  background-color:orange;
+color: blue;}
+#b{
+  position: absolute;
+  left:500px;
+  top:120px;
+}
+#YT{
+  width: 200px;
+  position:absolute;
+  left: 550px;
+  top: 10px;
+}
+#Youtube{
+  font: 30px arial, sans-serif;
+  color: white;
+text-align: center;
+font-style: italic;
+position:absolute;
+top: 60px;
+left: 550px;
+}
+#igm{
+  position:absolute;
+  top:200px;
+  left:100px;
+  font: 20px arial, sans-serif;
+}
+#specs{
+    font: 20px arial, sans-serif;
+    position:absolute;
+    top:500px;
+    left:100px;
+}
+#id{
+    font: 50px arial, sans-serif;
+    position:absolute;
+    top:350px;
+    left:600px;
+}
+#h{
+  font: 50px arial, sans-serif;
+  position:absolute;
+  top:100px;
+  left:350px;
+}
+#b2{
+  position:absolute;
+  left:700px;
+  top:120px;
+}

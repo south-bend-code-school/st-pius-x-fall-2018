@@ -1,0 +1,22 @@
+.christmastree{
+  width:100vw;
+  height:25vh;
+  background-image: url(http://www.animatedimages.org/data/media/357/animated-christmas-tree-image-0310.gif);
+  animation:J 1s linear infinite
+}
+
+@keyframes J{
+  from{background-position: 0 0;}
+  to{background-position:-200px 0;}
+}
+.candycane{
+  width:100vw;
+  height:25vh;
+  background-image: url(http://www.snazzyjazzypet.com/images/BPP111_01.jpg.jpg);
+  animation:E 1s linear infinite
+}
+@keyframes E {
+  from{background-position: 0 0;}
+  to{background-position:200px 0;}
+
+}

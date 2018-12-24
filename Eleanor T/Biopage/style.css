@@ -1,0 +1,33 @@
+body{
+  color:#260007
+}
+#fashion{background-color: #428071}
+#Hogwarts{background-color: #3A000A}
+#Hogwarts{color:white}
+#soccer{background-color: #70AA57}
+#ME{background-color: #C58966}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#text{
+  white-space: nowrap;
+  overflow: hidden;
+  animation: type 5s infinite;
+}
+
+
+@keyframes type{
+  from{width:0}
+  to{width:100%}
+}
+
+#hello{
+  font-size: 35px;
+  text-align: center;
+}
+
+.bye{  font-size: 25px;}
+.bye-bye{  font-size: 55px;}

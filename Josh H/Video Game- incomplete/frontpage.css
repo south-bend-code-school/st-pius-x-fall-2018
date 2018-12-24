@@ -1,0 +1,18 @@
+body, html{
+  height:100%;
+}
+#buttonstuff{
+  position: fixed;
+  top: 35%;
+left: 43%;
+}
+#heading2{
+  text-align: center;
+}
+button{width:175px;
+  height:75px;
+background-color:black;
+color:red;
+font-size: 50px;
+outline: 17px solid black;
+}

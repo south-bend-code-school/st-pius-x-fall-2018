@@ -1,0 +1,18 @@
+  body{
+background-color:red;
+color:yellow;
+
+}
+
+}
+#jonathanTowes{
+  height: 100px;
+  width:150px;
+  text-align: left;
+  position: relative;
+  left: 100px;
+  top: 150px;
+}
+#stats{
+text-align:right
+}

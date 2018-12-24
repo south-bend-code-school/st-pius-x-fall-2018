@@ -1,0 +1,18 @@
+body{
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 16px;
+  letter-spacing: 0em;
+  font-family: arno-pro;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16.3px;
+  letter-spacing: .1em;
+  line-height: 1.6em;
+  text-transform: none;
+  text-align: center;
+color: #757575;
+}
+div{
+  background-color: #D5DBDB;
+  color: #515551
+}

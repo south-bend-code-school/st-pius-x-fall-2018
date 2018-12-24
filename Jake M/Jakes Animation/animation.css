@@ -1,0 +1,22 @@
+.navyblue{
+  width:50vw;
+  height:25vh;
+  background-color:navy;
+  background-image:url("blue.jpg");
+  animation: backgroundscroll-right 10s linear infinite;
+}
+@keyframes backgroundscroll-right
+from{background-position: 0 0;}
+to{background-position: 500px 0}
+}
+.orange{
+  width:50vw;
+  height:25vh;
+background-color:orange;
+background-image:url("orange.jpg");
+animation: backgroundscroll-right 10s linear infinite;
+}
+@keyframes  backgroundscroll-right {
+  from{background-position: 0 0;}
+  to{background-position: 500px 0}
+}

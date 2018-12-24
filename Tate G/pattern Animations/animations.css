@@ -1,0 +1,32 @@
+body{
+height:100%;
+margin:0;
+}
+
+.header{
+width:100vw;
+height:25vh;
+background-color:grey
+}
+
+.header1{
+  width:100vw;
+  height:25vh;
+  background: url(toy_soldier_drumming_lg_nwm[1]0.gif);
+animation:joe 10s linear infinite;
+
+}
+
+.header2{
+  width:100vw;
+  height:25vh;
+  background: url(./candyprim.png);
+}
+div{
+width:100vw;
+
+}
+@keyframes joe{
+from{background-position: 0 0;}
+to{background-position:-500px 0;}
+}
